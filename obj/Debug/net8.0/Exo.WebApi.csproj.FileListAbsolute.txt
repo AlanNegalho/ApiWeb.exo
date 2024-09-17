@@ -271,3 +271,4 @@
 /home/alan/Documentos/senai/Desenvolvimento de Apis/Atividade3criando estrutura da api/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE/Exo.WebApi/obj/Debug/net8.0/Exo.WebApi.pdb
 /home/alan/Documentos/senai/Desenvolvimento de Apis/Atividade3criando estrutura da api/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE/Exo.WebApi/obj/Debug/net8.0/Exo.WebApi.genruntimeconfig.cache
 /home/alan/Documentos/senai/Desenvolvimento de Apis/Atividade3criando estrutura da api/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE/Exo.WebApi/obj/Debug/net8.0/ref/Exo.WebApi.dll
+/home/alan/Documentos/senai/Desenvolvimento de Apis/Atividade3criando estrutura da api/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE/Exo.WebApi/obj/Debug/net8.0/Exo.WebApi.sourcelink.json
